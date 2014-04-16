@@ -18,7 +18,7 @@ import sys
 
 # Criando uma conexão com o serviço S3
 try:
-	conn = S3Connection('AKIAJ4HFAWF3SR4TJ3OQ','L2Zh3lLPmMH4OJoYCgPa6T8KE2FQ7h+C2abHAbuV') #(<aws access key>,<aws secret key>)
+	conn = S3Connection('aws access key','aws secret key') #(<aws access key>,<aws secret key>)
 	print 'Conexao AWS estabelecida'
 except:
 	print 'Erro na conexão AWS'

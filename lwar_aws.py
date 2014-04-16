@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#
 #  lwar_aws.py
-#  
 #  Copyright 2013 Leandro <Leandro@leandrowar>
 #  Fontes:
 #	http://aws.amazon.com/articles/Amazon-S3/3998
